@@ -1,1 +1,0 @@
-# openkart-project
